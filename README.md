@@ -1,5 +1,5 @@
 <h1 align="center">Terraform - AWS EKS</h1>
-Strategy on how to create a k8s cluster in aws AWS EKS
+Strategy on how to create a k8s cluster in AWS EKS
 
 ## Dependencies
 - [AWS cli](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html)
